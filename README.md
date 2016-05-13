@@ -8,5 +8,6 @@
 
 + ASP.NET Web Services 学习指南
 + AOP in .NET 翻译
++ C# Language Specification 5.0 翻译
 + LifeCareer Books
 + LifeCareer WeChat
